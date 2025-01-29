@@ -1,0 +1,49 @@
+{
+  "production": [
+    {
+      "id": "1738056534953",
+      "data": "28/01/2025",
+      "filo": "",
+      "frese": "",
+      "spessori": "",
+      "filagne": "1",
+      "intestate": "1"
+    },
+    {
+      "id": "1738056664193",
+      "data": "28/01/2025",
+      "filo": "",
+      "frese": "",
+      "spessori": "",
+      "filagne": "22",
+      "intestate": "3"
+    },
+    {
+      "id": "1738059078980",
+      "data": "28/01/2025",
+      "filo": "",
+      "frese": "",
+      "spessori": "",
+      "filagne": "",
+      "intestate": ""
+    },
+    {
+      "id": "1738070205561",
+      "data": "28/01/2025",
+      "filo": "",
+      "frese": "",
+      "spessori": "",
+      "filagne": "",
+      "intestate": "3"
+    },
+    {
+      "id": "1738133431582",
+      "data": "29/01/2025",
+      "filo": "",
+      "frese": "",
+      "spessori": "",
+      "filagne": "",
+      "intestate": ""
+    }
+  ]
+}
