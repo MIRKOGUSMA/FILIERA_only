@@ -16,17 +16,17 @@ This document describes the logic to be integrated into the **"App-Azienda"**, w
 ## Summary  
 The explanation below outlines the key functionalities:  
 
-- **"To Do" Button**: Allows users to input the number of items that need to be processed.  
+- **"Da Fare" Button**: Allows users to input the number of items that need to be processed.  
 - **"Show Supply Chain" Button**: Toggles the visibility of the table containing daily records.  
-  - In the **"App-Azienda"**, this functionality should be executed by clicking on the cell in the **"Supply Chain"** column corresponding to the specific request.  
+  - In the **"App-Azienda"**, this functionality should be executed by clicking on the cell in the **"FILIERA"** column corresponding to the specific request.  
 - **"Filagne" and "Filiera" Columns**: Clicking on these columns scrolls down to the total values section.  
-  - The summed totals are subtracted from the total number of "To Do" items, and the result is displayed in the **"Remaining"** field.  
+  - The summed totals are subtracted from the total number of "To Do" items, and the result is displayed in the **"RIMANENTE"** field.  
 
 ## Expected Implementation in **"App-Azienda"**  
 In the **"App-Azienda"**, the following equivalences should be applied:  
 
-- **"To Do"** → **"Quantity"**  
-- **"Processed"** → **"COMPLETED"**  
-- **"Remaining"** → **"REMAINING"**  
+- **"Da Fare"** → **"QUANTITA'"**  
+- **"Processed"** → **"COMPLETATO"**  
+- **"RemaRimanenti"** → **"RIMANENTE"**  
 
 This logic must be correctly implemented to ensure the proper functionality of the application.
